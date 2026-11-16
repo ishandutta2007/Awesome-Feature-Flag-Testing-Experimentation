@@ -61,9 +61,9 @@ The following hosted SaaS platforms represent the category leaders in enterprise
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of self-hosted, privacy-first, and open-source feature toggle engines, progressive deployment daemons, and statistical experimentation platforms. Sorted in descending order by GitHub star count:
+Curated list of self-hosted, privacy-first, and open-source feature toggle engines, progressive deployment daemons, and statistical experimentation platforms. Sorted in descending order by GitHub Stars_Count:
 
-| Project | Stars | Language / Stack | Description |
+| Project | GitHub_Stars | Language / Stack | Description |
 |:---|:---:|:---|:---|
 | **[PostHog](https://github.com/posthog/posthog)** | [![Stars](https://img.shields.io/github/stars/posthog/posthog?style=social&color=white)](https://github.com/posthog/posthog/stargazers) | Python / TypeScript | **The open-source product engineering suite.** Combines feature flags, multivariate toggles, A/B testing, session replays, and product analytics under a single open-source core. |
 | **[Unleash](https://github.com/Unleash/unleash)** | [![Stars](https://img.shields.io/github/stars/Unleash/unleash?style=social&color=white)](https://github.com/Unleash/unleash/stargazers) | Node.js / TypeScript / Rust | **The enterprise-grade open-source feature flag engine.** Used in high-compliance production by Visa and global enterprises. Features Unleash Edge for ultra-low latency, custom activation strategies, progressive rollouts, and multi-language SDKs. |
@@ -88,7 +88,7 @@ Contributions to this ecosystem list are warmly welcomed!
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch**: `git checkout -b add-awesome-tool`
 3. 📝 **Add your tool/platform**: Follow the table layout and keep descriptions concise, objective, and factual.
-4. 📬 **Submit a Pull Request**: Provide a brief summary of the project and ensure star badges follow the specified social badge format.
+4. 📬 **Submit a Pull Request**: Provide a brief summary of the project and ensure Stars_Badges follow the specified social badge format.
 
 ---
 
